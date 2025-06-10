@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+*.sln.
+*.suo
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.log
+*.tlog
+*.recipe
+*.cache
+*.idb
+*.ipch
+*.aps
+*.bsc
+*.ncb
+*.opendb
+*.res
+*.sbr
+*.sdf
+*.vshost.*
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.build.log
+*.lastbuildstate
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+
+# CMake files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Packages
+packages/
+
+# Nuget
+.nuget/
+*.nupkg
+
+# Temporary files
+*.~
+*.bak
+*.tmp
+*.vspscc
+
+# User-specific files
+*.userprefs

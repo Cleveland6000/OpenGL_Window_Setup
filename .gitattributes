@@ -1,0 +1,3 @@
+* linguist-vendored
+OpenGL_Window_Setup/**/*.cpp -linguist-vendored
+OpenGL_Window_Setup/**/*.cpp -linguist-generated
