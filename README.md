@@ -49,11 +49,11 @@ If you have Git installed, you can clone this repository:
 Bash
 
 ```
-git clone https://github.com/YOUR_USERNAME/OpenGL_Window_Setup.git
+git clone https://github.com/Cleveland6000/OpenGL_Window_Setup.git
 cd OpenGL_Window_Setup
 ```
 
-_(Note: Replace `YOUR_USERNAME/OpenGL_Window_Setup.git` with the actual repository URL if you've forked or moved it.)_
+_(Note: Replace `Cleveland6000/OpenGL_Window_Setup.git` with the actual repository URL if you've forked or moved it.)_
 
 ### 3. Download and Configure GLFW
 
